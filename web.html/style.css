@@ -1,0 +1,16 @@
+.card {
+  height: 100%;
+  width: auto;
+  border-radius: 2em;
+  text-align: center;
+  padding: 0.4em;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.card img {
+  padding: 0.6em;
+  width: 400px;
+  height: auto;
+  margin: auto;
+}
